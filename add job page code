@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+<title>addjoblistings</title>
+<link href="main.css" rel="stylesheet" type="text/css"
+</head>
+	<body>
+		<h1>Add Job Listings</h1>
+		<ul>
+			<li><a href="mainpage.html">Home</a></li>
+		</ul>
+		<p>In this section you will be able to add your own <br>
+			job listings you would like to advertise<br>
+
+		</p>
+		<form id="form1">
+			Company: <input name="name" type="text" size="20">
+		</form>
+		<button onclick="outputname()">submit</button>
+		<form id="form1">
+			Salary: <input name="name" type="text" size="20">
+		</form>
+		<button onclick="outputname()">submit</button>
+		<form id="form1">
+			Location: <input name="name" type="text" size="20">
+		</form>
+		<button onclick="outputname()">submit</button>
+		<form id="form1">
+			Role: <input name="name" type="text" size="20">
+		</form>
+		<button onclick="outputname()">submit</button>
+
+		<script>
+
+			function outputname() {
+				var x, y, Details, answer;
+				x=document.getElementById("form1");
+				y=x.elements["Details"].value;
+				document.getElementById("info").innerHTML=y;
+
+			}
+		</script>
+		
+	</body>
+</html>
