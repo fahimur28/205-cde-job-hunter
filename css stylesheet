@@ -1,0 +1,38 @@
+body {
+	background:#43e1ef;
+	font-family: arial;
+	text-align: center; 
+}
+p{
+	background: white;
+	padding: 10px;
+	margin: 1% 20%;
+	text-align: center;
+}
+ul li{
+	background: white;
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 15px;
+}
+ul li a{
+	color: black;
+}
+
+#searchbar {
+	border: 1px solid #000000;
+	font-size: 16px;
+	padding: 10px;
+	outline: none;
+	width: 250px;
+}
+
+#searchBtn {
+	border: 1px solid #000000;
+	font-size: 16px;
+	padding: 10px;
+	background: #f1d829;
+	font-weight: bold;
+	cursor: pointer;
+	outline: none;
+}
