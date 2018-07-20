@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Education</title>
+		<link href="main.css" rel="stylesheet" type="text/css"
+	</head>
+	<body>
+		<h1>Education jobs</h1>
+		<ul>
+			<li><a href="mainpage.html">Home</a></li>
+		</ul>
+		<ul>
+			<li><a href="https://www.reed.co.uk/jobs/education-advisor/35472763?source=searchResults#/jobs?keywords=education">Chase resourcing</a></li>
+			<p> Education Advisor<br>
+				Salary negotiable<br>
+				Manchester<br>
+			</p>
+			<li><a href="https://www.reed.co.uk/jobs/primary-teaching-assistant-aspiring-teachers/35350937?source=searchResults#/jobs?keywords=teaching">Edustaff</a></li>
+			<p> Primary teaching assistant<br>
+				£11,000-£15,000 per annum<br>
+				London<br>
+			</p>
+			<li><a href="https://www.reed.co.uk/jobs/teachers/35602011?source=searchResults#/jobs?keywords=teaching">Teaching personnel ltd</a></li>
+			<p> Teacher<br>
+				£200 per day<br>
+				North yorkshire<br>
+			</p>
+			<li><a href="https://www.reed.co.uk/jobs/teachers/35602011?source=searchResults#/jobs?keywords=teaching">Teaching personnel ltd</a></li>
+			<p>Graduate teaching assistant<br>
+				£15,000 per annum<br>
+				Coventry<br>
+
+			</p>
+		</ul>
+	</body>
+</html>
