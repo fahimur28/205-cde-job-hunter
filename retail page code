@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Retail</title>
+		<link href="main.css" rel="stylesheet" type="text/css"
+	</head>
+	<body>
+		<h1>Retail Jobs</h1>
+		<ul>
+			<li><a href="mainpage.html">Home</a></li>
+		</ul>
+		<ul>
+			
+			<li><a href="https://careers.next.co.uk/">Next</a></li>
+			<p> Cleaner<br>
+				£8-£10 per hour<br>
+				Ilford<br>
+			</p>
+			<li><a href="https://careers.lidl.co.uk/en/index.htm">Lidl</a></li>
+			<p> Customer assistant<br>
+				£7-£9 per hour<br>
+				Wimslow<br>
+			</p>
+			<li><a href="https://sainsburys.jobs/">Sainsbury's</a></li>
+			<p> Customer and trading manager<br>
+				£10-£12 per hour<br>
+				Newbury park<br>
+			</p>
+			<li><a href="http://www.riverislandcareers.com/">River Island</a></li>
+			<p> Sales assistant<br>
+				Stratford<br>
+				£8-£9 per hour<br>
+			</p>
+			<li><a href="http://www.riverislandcareers.com/">Topman</a></li>
+			<p> Sales manager<br>
+				Milton Keys<br>
+				£20 per hour<br>
+			</p>
+			<li><a href="https://careers.primark.com/search-jobs/ALL?orgIds=8171&ac=39096&alp=ALL&alt=0&ascf=[{%22Key%22:%22ALL%22,%22Value%22:null}]&">Primark</a></li>
+			<p> Sales assistant<br>
+				£9 per hour<br>
+				Shoreditch<br>
+			</p>
+		</ul>
+	</body>
+</html>
