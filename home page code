@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+	<title>Job Hunter</title>
+	<link href="main.css" rel="stylesheet" type="text/css"
+</head>
+<body>
+	<img src="https://blogs.salford.ac.uk/careers-employabilty/wp-content/uploads/sites/24/2017/01/job_hunting.png" width="125" height="150">
+	<h1>Job Hunter</h1>
+	<h2>Popular Jobs</h2>
+	<ul>
+		<li><a href="education.html">Education</a></li>
+		<li><a href="retail.html">Retail</a></li>
+		<li><a href="IT.html">IT</a></li>
+		<li><a href="Socialcare.html">Social Care</a></li>
+		<li><a href="search.html">search</a></li>
+
+	</ul>
+	<h2>would like to add your own listings?</h2>
+	<ul>
+		<li><a href="addjob.html">Add job listings</a></li>
+	</ul>
+	<h2>Sign in here</h2>
+	<ul>
+		<li><a href="login.html">Log in</a></li>
+	</ul>
+</body>
+</html>
