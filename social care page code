@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Social Care</title>
+		<link href="main.css" rel="stylesheet" type="text/css"
+	</head>
+	<body>
+		<h1>Social Care jobs</h1>
+		<ul>
+			<li><a href="mainpage.html">Home</a></li>
+		</ul>
+		<ul>
+			<li><a href="http://www.nhshighland.scot.nhs.uk/Careers/Pages/Home.aspx">NHS Highland</a></li>
+			<p>
+				Social care assistant<br>
+				£18,000 per annum<br>
+				Inverness<br>
+			</p>
+			<li><a href="https://www.reed.co.uk/jobs/social-care-worker-bank/35654966?source=searchResults#/jobs?keywords=social%20care">Argyll and bute council</a></li>
+			<p>
+				Social care worker<br>
+				£19,000 per annum<br>
+				Argyll<br>
+			</p>
+		</ul>
+	</body>
+</html>
