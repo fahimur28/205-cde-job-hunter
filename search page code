@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+	<head>
+		<title>search</title>
+		<link href="main.css" rel="stylesheet" type="text/css" />
+		<script type="text/javascript">
+			function active(){}
+		</script>
+
+	</head>
+
+	<body>
+		<h1>Search Job Listings</h1>
+		<ul>
+			<li><a href="mainpage.html">Home</a></li>
+		</ul>
+		<form action="search.php" method="post">
+			<input type="text" id="searchbar" placeholder="" value="search job..." maxlength="25" autocomplete="off" onmousedown="" onblur="" />
+			<input type="submit" id="searchBtn" value="search"/>
+		</form>
+		
+	</body>
+</html>
